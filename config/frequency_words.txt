@@ -1,14 +1,9 @@
-DeepSeek
-
-马斯克
-
 微软
 Microsoft
 
 英伟达
 NVIDIA
 黄仁勋
-
 AMD
 
 谷歌
@@ -19,6 +14,7 @@ deepmind
 chatgpt
 openai
 sora
+DeepSeek
 
 claude
 Anthropic
@@ -48,7 +44,6 @@ ai
 科技
 核能
 
-
 月球
 登月
 火星
@@ -71,25 +66,31 @@ ai
 石油
 美元
 欧元
+
 降息
 加息
 鹰派
 鸽派
 预期
+美联储
+央行
+
 暴跌
 暴涨
 回撤
-美联储
-央行
+股票
+外汇
 
 摩根大通
 大摩
 小摩
 花旗
 银行
-股票
-外汇
+
 
 比特币
 以太坊
 加密货币
+
+特朗普
+马斯克
